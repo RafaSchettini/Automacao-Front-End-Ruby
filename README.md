@@ -25,14 +25,14 @@ bundle install
 ### Executando o SOFTWARE 🚀
 
 - Primeiro, execute o arquivo env.rb em sua IDE de preferência.
-- Agora, insira o diretório do index.html de acordo com a localização de tal no seu computador
+- Execute o index.html
+- Agora, copie o URL e insira entre os parênteses como demonstrado abaixo.
 
 <img src="https://media.discordapp.net/attachments/647132376941461504/949418893166907432/diretorio.png?width=408&height=158">
 
 - Exemplo:
-```bash
-..\Projeto Ruby (Automação de Testes)\Site para Automação\index.hmtl
-```
+
+<img src="https://media.discordapp.net/attachments/647132376941461504/949429979370913813/unknown.png?width=674&height=35">
 
 - Agora, acesse novamente a pasta Automação de Testes no seu TERMINAL e execute:
 ```ruby
