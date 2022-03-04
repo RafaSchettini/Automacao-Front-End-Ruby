@@ -68,5 +68,6 @@ cucumber
 
 - Ruby
 - Capybara
+- Cucumber
 - RSpec
 - SitePrism
