@@ -24,15 +24,31 @@ bundle install
 
 ### Executando o SOFTWARE 🚀
 
-- Primeiro, execute o arquivo env.rb em sua IDE de preferência.
-- Execute o index.html
-- Agora, copie o URL e insira entre os parênteses como demonstrado abaixo.
+- Primeiro, execute o index.html
 
-<img src="https://media.discordapp.net/attachments/647132376941461504/949418893166907432/diretorio.png?width=408&height=158">
+```ruby
+#Localização do arquivo
+"..\Projeto Ruby (Automação de Testes)\Site para Automação\index.html"
+```
+
+- Copie o URL.
 
 - Exemplo:
 
 <img src="https://media.discordapp.net/attachments/647132376941461504/949429979370913813/unknown.png?width=674&height=35">
+
+- Agora, abra o arquivo env.rb em sua IDE preferida.
+
+```ruby
+#Localização do arquivo
+"..\Projeto Ruby (Automação de Testes)\Automação de Testes\features\support\env.rb"
+```
+
+- Cole a URL entre os parênteses como demonstrado abaixo:
+
+<img src="https://media.discordapp.net/attachments/647132376941461504/949418893166907432/diretorio.png?width=408&height=158">
+
+
 
 - Agora, acesse novamente a pasta Automação de Testes no seu TERMINAL e execute:
 ```ruby
