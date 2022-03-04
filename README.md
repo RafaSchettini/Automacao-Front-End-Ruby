@@ -1,7 +1,7 @@
 ### Apresentação do PROJETO ⭐
 - Ao executado, o programa abre um navegador
-- Insire um username
-- Insire uma senha
+- Insere um username
+- Insere uma senha
 - Clica no botão de LOGIN
 
 ![ProjetoRuby](https://user-images.githubusercontent.com/69735879/156847686-3216e45b-f0ce-45b7-8250-ea7be551581d.gif)
