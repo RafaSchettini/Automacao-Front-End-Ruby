@@ -21,7 +21,6 @@ bundle install
 
 ```
 
-
 ### Executando o SOFTWARE 🚀
 
 - Primeiro, execute o index.html
