@@ -49,7 +49,6 @@ bundle install
 <img src="https://media.discordapp.net/attachments/647132376941461504/949418893166907432/diretorio.png?width=408&height=158">
 
 
-
 - Agora, acesse novamente a pasta Automação de Testes no seu TERMINAL e execute:
 ```ruby
 #Acesse a pasta Automação de Testes pelo seu TERMINAL
